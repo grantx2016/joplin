@@ -6,7 +6,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/laurent22/joplin.git"
+    "url": "git+https://github.com/grantx2016/joplin.git"
   },
   "engines": {
     "node": ">=16"
